@@ -5,7 +5,6 @@
 // hold true. 
 //
 // http://www.drdobbs.com/cpp/state-machine-design-in-c/184401236
-#include "stdafx.h"
 #include "Motor.h"
 
 int main(void)
